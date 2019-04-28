@@ -8,4 +8,4 @@ eureka:
 
 spring:
   application:
-    name: service-hi-feign
+    name: service-feign
